@@ -1,19 +1,4 @@
 {
-  "dialog_enable": true,
-  "online_enable": true,
-
-  "title": "Premium Login",
-  "descriptions": [
-    "Welcome to Premium Access.",
-    "Enter your password to continue.",
-    "Make sure your device is registered."
-  ],
-
-  "button_login": "Login",
-  "button_admin": "Admin",
-  "button_copy": "Copy ID",
-  "admin_url": "https://google.com",
-
   "device_section": [
     {
       "device_id": "32b22f28bcbe60b3",
